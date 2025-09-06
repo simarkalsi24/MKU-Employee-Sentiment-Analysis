@@ -8,10 +8,10 @@ The goal of this project is to **quantify employee sentiments**, uncover key fac
 ---
 
 ## 📁 Project Structure
-├── Book Original.xlsx # Raw survey dataset
-├── combinedanalysis.ipynb # Notebook with combined EDA & visualizations
-├── EmployeeSentiments0-1.ipynb # Notebook mapping survey answers to sentiment scale (0–1)
-└── README.md # Project documentation
+  ├── Book Original.xlsx # Raw survey dataset
+  ├── combinedanalysis.ipynb # Notebook with combined EDA & visualizations
+  ├── EmployeeSentiments0-1.ipynb # Notebook mapping survey answers to sentiment scale (0–1)
+  └── README.md # Project documentation
 
 ---
 
